@@ -19,30 +19,30 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'BIXBY-MD USER BOT'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
+global.owner = ['94703817681']
+global.premium = ['94703817681']
+global.ownernomer = '94703817681'
+global.ownername = 'KAVIDU DILMINA'
+global.botname = 'WHITE LION USER BOT'
+global.footer = ' "The key to success is to focus on GOALS, NOT OBSTACLES." 💦✾😊⃟⃟◍̸̸̸̸̣̣̣❀.'
 global.ig = 'https://github.com/darkalphaxteam'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW'
 global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'DARK ALPHA'
+global.packname = 'white lion'
+global.author = 'WHITE LION'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    admin: 'This Feature Is Only For Admin...!',
+    botAdmin: 'Bot Must Be Admin First..!',
+    owner: 'This Feature Is Only For Owner...!',
+    group: 'Feature Used Only For Groups...!',
+    private: 'Features Used Only For Private Chat...!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Please Wait...',
+    wait: 'පොඩ්ඩක් ඉන්න මැනික...😘',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
